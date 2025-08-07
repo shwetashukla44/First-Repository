@@ -1,3 +1,3 @@
 # First-Repository
 This is my first Git Hub Repository
-Author:Shweta Shukla
+Author = Shweta Shukla
